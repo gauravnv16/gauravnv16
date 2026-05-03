@@ -1,8 +1,8 @@
+
 ### About me
 
 I'm a USC grad student (M.S. Data Science) building production full-stack and backend systems in Go, Python, TypeScript, and React. Shipped a GraphQL API holding sub-100ms p99 latency at 1,000+ concurrent WebSocket users, a columnar analytics engine outperforming Pandas 3× on 100K+ row datasets, and a deep neural net IPL predictor hitting 80% accuracy with GATs and Monte Carlo simulation. Co-authored 3 IEEE papers, one of which placed 3rd Best Paper. Currently looking for Summer 2026 SWE internships.
 
----
 ### Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -22,7 +22,7 @@ I'm a USC grad student (M.S. Data Science) building production full-stack and ba
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
----
+
 ### GitHub Stats
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gauravnv16&bg_color=141321&color=a9fef7&line=fe428e&point=f8d847&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
